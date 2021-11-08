@@ -6,8 +6,13 @@
     I'm a CSE Sophomore from Pune
     <br><br><br>
 </samp>
-<br><br><br>
 </p>
+
+<p align="center">
+<img src="https://i.imgur.com/uGM69ie.gif" alt="coding" />
+</p>
+
+<br><br><br>
 
 <!-- SOCIAL ACCOUNTS -->
 <h2 align="center">Get in Touch</h2>
